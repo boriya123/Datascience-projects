@@ -2,6 +2,8 @@
 
 The goal of this datsaset is to findout the chance of getting admitted to foreign university based on their credentials such as GRE score, TOEFL score, Statement of purpose,Letter of recommendation ratings,Cumulative Grade Points Average(CGPA) marks,research (Yes/No).By calculating the credentrials we have to build an prediction algorithm which gives us the probabilty of getting into the US universities.
 
+For this problem set we have used Linear regression algorithm as an entry level model to predict the outcome of admission into US Universities.
+
 # Content
 The dataset contains several parameters which are considered important during the application for Masters Programs.
 The parameters included are :
